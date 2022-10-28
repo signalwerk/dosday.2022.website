@@ -1,0 +1,26 @@
+{
+  "name": "dosday.2022.website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/signalwerk/dosday.2022.website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/signalwerk/dosday.2022.website/issues"
+  },
+  "homepage": "https://github.com/signalwerk/dosday.2022.website#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
